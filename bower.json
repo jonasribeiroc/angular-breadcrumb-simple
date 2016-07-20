@@ -1,0 +1,23 @@
+{
+  "name": "angular-breadcrumb",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jonasribeiroc/angular-breadcrumb",
+  "authors": "Jonas Ribeiro <jonasribeiroc@gmail.com>",
+  "description": "Angular directive for use url route like a breadcrumb",
+  "main": "src/angular-breadcrumb.js",
+  "keywords": [
+    "Angular",
+    "amCharts",
+    "directive",
+    "Angularjs",
+    "chart"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
