@@ -1,10 +1,10 @@
 {
-  "name": "angular-breadcrumb",
+  "name": "angular-breadcrumb-simple",
   "version": "1.0.0",
-  "homepage": "https://github.com/jonasribeiroc/angular-breadcrumb",
+  "homepage": "https://github.com/jonasribeiroc/angular-breadcrumb-simple",
   "authors": "Jonas Ribeiro <jonasribeiroc@gmail.com>",
   "description": "Angular directive for use url route like a breadcrumb",
-  "main": "src/angular-breadcrumb.js",
+  "main": "src/angular-breadcrumb-simple.js",
   "keywords": [
     "Angular",
     "amCharts",

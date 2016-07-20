@@ -1,17 +1,17 @@
-# angular-breadcrumb
+# angular-breadcrumb-simple
 
 Angular directive for use url route like a breadcrumb. This repo is for distribution on bower.
 
 ### bower
 
 ```shell
-bower install angular-breadcrumb --save
+bower install angular-breadcrumb-simple --save
 ```
 
 Add a `<script>` to your `index.html`:
 
 ```html
-<script src="/bower_components/angular-breadcrumb/angular-breadcrumb.js"></script>
+<script src="/bower_components/angular-breadcrumb-simple/angular-breadcrumb-simple.js"></script>
 ```
 
 Then add `ngBreadcrumb` as a dependency for your app:
